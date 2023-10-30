@@ -1,0 +1,8 @@
+[api]
+port="9000"
+
+[database]
+host="localhost"
+user="crud_user"
+pass="senha222"
+name="crud"
